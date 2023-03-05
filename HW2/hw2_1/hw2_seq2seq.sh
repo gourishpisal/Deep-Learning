@@ -1,0 +1,1 @@
+python model_seq2seq.py -d $1 -o $2 -m test
